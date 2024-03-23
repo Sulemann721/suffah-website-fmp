@@ -1,0 +1,43 @@
+#loading{
+    position: fixed;
+    width: 100%;
+    height:100vh;
+    background: #ffff url(images/load.gif) no-repeat center;
+    z-index: 100;
+    background-size: 30%;
+}  
+
+.header{
+    margin-top: 60px !important;
+    position: relative !important;
+    z-index: 100;
+    background-color: white !important;
+    
+}
+
+
+.fix{
+    width: 100%;
+    position: fixed !important;
+    top:0px !important;
+    padding-top: 0px !important;
+    background-color: white !important;
+     margin-bottom: 100px !important; 
+ 
+    
+}
+.myNav{
+ 
+    font-size: 17px !important;
+}
+.myNav:hover{
+    background-color:#B67352 ;
+    font-size: 19px !important;
+    border-radius: 5px !important;
+} 
+
+
+body .container-fluid{
+    padding: 0px !important;
+    margin: 0px !important;
+}
